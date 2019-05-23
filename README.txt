@@ -2,7 +2,7 @@
 Telegram news bot by HSE students team
 
 Team:
-👳 Kunin Ilya - program architecture; news_bot.py; design feauterus; The Guardian, Sports.ru and HLTV.parcing
+👳 Kunin Ilya - program architecture; news_bot.py; design feauterus; git launch and control; The Guardian, Sports.ru and HLTV.parcing
 👱 Bogachev Denis - TACC, Медуза parcing
 👴 Abramov Ilya - storage of information, Кинопоиск parcing
 
