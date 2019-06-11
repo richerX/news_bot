@@ -3,8 +3,8 @@ News telegram bot by HSE students team
 
 Team:
 👳 Kunin Ilya - program architecture; news_bot.py; git launch and control; general, business and sport news parcing
-👱 Bogachev Denis - structure of presentation of project, movies and music news parcing
-👴 Abramov Ilya - presentaion of project, storage of information, casual news parcing
+👱 Bogachev Denis - storage of information, movies and music news parcing
+👴 Abramov Ilya - presentaion of project, casual news parcing
 
 💬 Interaction with the user through the telegram client (@WorldTopNewsBot)
 📚 Data structures used - [lists; dictionaries; sets]
