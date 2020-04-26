@@ -1,7 +1,0 @@
-5 Jun 2019 | 22:18:51 | problem with artifex() | (<class 'TypeError'>, TypeError("unhashable type: 'slice'",), <traceback object at 0x0A36B738>) | 
-5 Jun 2019 | 22:21:41 | problem with artifex() | (<class 'KeyError'>, KeyError('href',), <traceback object at 0x04831D28>) |
-6 Jun 2019 | 08:50:47 | problem with kinopoisk() | (<class 'urllib.error.HTTPError'>, <HTTPError 504: 'Gateway Time-out'>, <traceback object at 0x7f2e66320e48>) | 
-6 Jun 2019 | 19:21:16 | problem with kinopoisk() | (<class 'http.client.RemoteDisconnected'>, RemoteDisconnected('Remote end closed connection without response',), <traceback object at 0x7f2e7856d2c8>) | 
-7 Jun 2019 | 00:04:28 | problem with kinopoisk.txt is empty() | (None, None, None) | 
-9 Jun 2019 | 11:21:19 | problem with tass() | (<class 'urllib.error.URLError'>, URLError(ConnectionResetError(104, 'Connection reset by peer'),), <traceback object at 0x7f2e6768a3c8>) | 
-9 Jun 2019 | 16:19:06 | problem with wsj() | (<class 'urllib.error.HTTPError'>, <HTTPError 509: 'Bandwidth Limit Exceeded'>, <traceback object at 0x7f2e787cffc8>) | 
