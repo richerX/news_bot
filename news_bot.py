@@ -8,10 +8,10 @@ import telebot
 #    |   All constants   |
 #    ---------------------
 
-#  use another token, otherwise you will kill this bot, because it is working in none_stop mode on the server
-bot = telebot.TeleBot("874882363:AAFwFLATUs-Z3RZUeF1S3fOSGtJTqVtJY2U")  #
+token = "" # write bot token ehre
+bot = telebot.TeleBot(token)
 max_length_of_headline = 100
-admin_id = 287352001
+admin_id = None # write admin id here
 waiting_feedback_from = set()
 
 
